@@ -113,18 +113,20 @@
 <wire x1="12.192" y1="0" x2="12.192" y2="17.272" width="0" layer="20" curve="0.902277"/>
 <wire x1="12.192" y1="17.272" x2="0" y2="17.272" width="0" layer="20"/>
 <wire x1="0" y1="17.272" x2="0" y2="0" width="0" layer="20"/>
-<text x="4.064" y="16.256" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">SVCC</text>
-<text x="4.318" y="13.843" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">SMOSI</text>
-<text x="4.064" y="11.176" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">SMISO</text>
-<text x="4.064" y="5.969" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">SSCK</text>
-<text x="4.318" y="8.382" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">SCS</text>
-<text x="4.318" y="3.175" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">GND</text>
-<text x="8.763" y="16.256" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">MVCC</text>
-<text x="8.509" y="13.843" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">MMOSI</text>
-<text x="8.763" y="11.176" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">MMISO</text>
-<text x="8.509" y="8.255" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">MCS</text>
-<text x="8.763" y="5.969" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">MSCK</text>
-<text x="8.509" y="3.175" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">GND</text>
+<text x="4.064" y="15.748" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">VCC</text>
+<text x="4.064" y="13.589" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">MOSI</text>
+<text x="4.064" y="10.922" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">MISO</text>
+<text x="4.064" y="5.715" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">SCK</text>
+<text x="4.064" y="7.874" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">CS</text>
+<text x="4.064" y="3.175" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">GND</text>
+<text x="8.763" y="15.748" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">VCC</text>
+<text x="8.763" y="13.589" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">MOSI</text>
+<text x="8.763" y="10.922" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">MISO</text>
+<text x="8.763" y="8.001" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">CS</text>
+<text x="8.763" y="5.715" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">SCK</text>
+<text x="8.763" y="3.175" size="0.6096" layer="22" font="vector" ratio="20" rot="MR270">GND</text>
+<text x="3.556" y="16.256" size="0.6096" layer="22" font="vector" ratio="20" rot="MR0">SLAVE</text>
+<text x="11.684" y="16.256" size="0.6096" layer="22" font="vector" ratio="20" rot="MR0">MASTER</text>
 </plain>
 <libraries>
 <library name="AlexW-Eagle-Libraries">
